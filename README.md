@@ -2,6 +2,9 @@
 
 > **Capture ideas before they disappear.**
 
+**Author:** Cynthia Moraa  
+**Company:** Power Learn Project
+
 A responsive, lightweight note-taking web application built with vanilla HTML, CSS, and JavaScript. Designed with accessibility, real-time feedback, and persistent local storage.
 
 ---
@@ -12,7 +15,7 @@ A responsive, lightweight note-taking web application built with vanilla HTML, C
 - **🏷️ Color-Coded Categories**: Distinct accent borders for each category with enhanced contrast in both light and dark modes.
 - **🕒 Timestamps**: Automatically records and displays the date and time each note was created.
 - **🔍 Real-Time Search**: Instant, case-insensitive search across note content and categories, complete with dynamic result counts.
-- **📊 Live Counters & Validation**:
+- **🔢 Live Counters & Validation**:
   - Live character count with color-coded warnings (`> 180` chars) and limits (`200` chars max).
   - Live word count.
   - Contextual error messages that automatically clear as you type.
